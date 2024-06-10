@@ -1,3 +1,42 @@
+*****************************
+
+# [Project Name] - recipe_book
+
+## Author: [Your Name] - Carey Burnett
+
+## Description - Front end code for recipe_book
+
+ 
+This is a Next.js application named [recipe_book]. It includes a simple home page.
+
+
+## How to Run
+
+1. Clone the repository: git clone [[repository URL](https://github.com/cjburn3/recipe_book)]
+
+2. Navigate to the project directory: `cd [recipe_book]`
+
+3. Install dependencies: `npm install`
+
+4. Run the development server: `npm run dev`
+
+5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see the app in action.
+
+
+
+## Deployment
+
+This application is deployed on Vercel. You can view the live site at: [deployment URL]
+
+
+
+****Technologies Used
+
+- Next.js
+- React
+
+------------------------------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +73,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
